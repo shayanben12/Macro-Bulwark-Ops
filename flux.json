@@ -227,7 +227,7 @@
       "image": "skipButton.png",
       "retry_interval": 1, 
       "skip": true,
-      "max_retries": 50
+      "max_retries": 5
     },
     {
       "action": "find_and_click",

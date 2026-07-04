@@ -5,3 +5,4 @@ __pycache__/
 # Custom Bot Files 
 debug/
 latest_adb_screen_*.png
+cycles.json
