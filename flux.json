@@ -4,101 +4,101 @@
     {
       "action": "find_and_click",
       "image": "seasonalActivitiesButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "bulwarkOpsButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "launchButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "PreGame_ReadyButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "selectButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "PreGame_ReadyButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "wait_for_image",
       "image": "holdToFastFowardButton.png",
-      "timeout": 300
+      "timeout": 90
     },
     {
       "action": "find_and_click",
       "image": "holdToFastFowardButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "skipTextButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "wait_for_image",
       "image": "selectTalentTitle.png",
-      "timeout": 300
+      "timeout": 90
     },
     {
       "action": "find_and_click",
       "image": "pickAugment.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "selectButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "wait_for_image",
       "image": "lifeCounter.png",
-      "timeout": 300
+      "timeout": 90
     },
     {
       "action": "joystick_drag",
@@ -140,49 +140,49 @@
           "skip": true,
           "max_retries": 3,
           "on_fail": [
-              {
-                "action": "wait_for_image",
-                "image": "objectiveCompletedText.png",
-                "timeout": 300
-              },
-              {
-                "action": "find_and_click",
-                "image": "leaveButton.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 50
-              },
-              {
-                "action": "find_and_click",
-                "image": "ignoreButton.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 3
-              },
-              {
-                "action": "find_and_click",
-                "image": "wavesCompletedText.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 3
-              },
-              {
-                "action": "find_and_click",
-                "image": "Endgame_exitButton.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 10
-              },
-              {
-                "action": "find_and_click",
-                "image": "Restart_activitiesButton_mobile.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 10
-              },
-              {
-                "action": "restart_macro"
-              }
+            {
+              "action": "wait_for_image",
+              "image": "objectiveCompletedText.png",
+              "timeout": 90
+            },
+            {
+              "action": "find_and_click",
+              "image": "leaveButton.png",
+              "retry_interval": 1,
+              "skip": true,
+              "max_retries": 50
+            },
+            {
+              "action": "find_and_click",
+              "image": "ignoreButton.png",
+              "retry_interval": 1,
+              "skip": true,
+              "max_retries": 3
+            },
+            {
+              "action": "find_and_click",
+              "image": "wavesCompletedText.png",
+              "retry_interval": 1,
+              "skip": true,
+              "max_retries": 3
+            },
+            {
+              "action": "find_and_click",
+              "image": "Endgame_exitButton.png",
+              "retry_interval": 1,
+              "skip": true,
+              "max_retries": 10
+            },
+            {
+              "action": "find_and_click",
+              "image": "Restart_activitiesButton_mobile.png",
+              "retry_interval": 1,
+              "skip": true,
+              "max_retries": 10
+            },
+            {
+              "action": "restart_macro"
+            }
           ]
         }
       ]
@@ -190,49 +190,49 @@
     {
       "action": "find_and_click",
       "image": "1kBuildButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "upgradeButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "2kBuildButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "3kBuildButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "exitButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "skipButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "skipButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
       "max_retries": 50
@@ -240,7 +240,7 @@
     {
       "action": "find_and_click",
       "image": "skipButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
       "max_retries": 50
@@ -248,7 +248,7 @@
     {
       "action": "find_and_click",
       "image": "exitButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
       "max_retries": 50
@@ -256,119 +256,122 @@
     {
       "action": "find_and_click",
       "image": "skipButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 50
     },
     {
       "action": "wait_for_image",
       "image": "wave4Text.png",
-      "timeout": 300
+      "timeout": 90
     },
     {
       "action": "find_and_click",
       "image": "dismantleButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 50
     },
     {
       "action": "find_and_click",
       "image": "dismantleButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 50
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "wait_for_image",
       "image": "claimChallengeText.png",
-      "timeout": 300
+      "timeout": 90
     },
     {
       "action": "find_and_click",
       "image": "leaveButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": false
     },
     {
       "action": "find_and_click",
       "image": "ignoreButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "wavesCompletedText.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "Endgame_exitButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 10
     },
     {
       "action": "find_and_click",
       "image": "Restart_activitiesButton_mobile.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
+      "delay_before": 5,
       "skip": true,
       "max_retries": 30,
       "on_fail": [
-              {
-                "action": "find_and_click",
-                "image": "blessingTapToClaim.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 10
-              },
-              {
-                "action": "find_and_click",
-                "image": "blessingContinue.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 10
-              },
-              {
-                "action": "find_and_click",
-                "image": "Restart_activitiesButton_mobile.png",
-                "retry_interval": 1, 
-                "skip": true,
-                "max_retries": 30
-              },
-              {
-                "action": "restart_macro"
-              }
-          ]
+        {
+          "action": "find_and_click",
+          "image": "blessingTapToClaim.png",
+          "retry_interval": 1,
+          "delay_before": 5,
+          "skip": true,
+          "max_retries": 10
+        },
+        {
+          "action": "find_and_click",
+          "image": "blessingContinue.png",
+          "retry_interval": 1,
+          "delay_before": 5,
+          "skip": true,
+          "max_retries": 10
+        },
+        {
+          "action": "find_and_click",
+          "image": "Restart_activitiesButton_mobile.png",
+          "retry_interval": 1,
+          "skip": true,
+          "max_retries": 30
+        },
+        {
+          "action": "restart_macro"
+        }
+      ]
     },
     {
       "action": "find_and_click",
       "image": "rewardRetrievalText.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "claimRewardButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
-      "retry_interval": 1, 
+      "retry_interval": 1,
       "skip": true,
       "max_retries": 3
     },
