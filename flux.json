@@ -150,7 +150,7 @@
               "image": "leaveButton.png",
               "retry_interval": 1,
               "skip": true,
-              "max_retries": 50
+              "max_retries": 30
             },
             {
               "action": "find_and_click",
@@ -235,7 +235,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "find_and_click",
@@ -243,7 +243,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "find_and_click",
@@ -251,14 +251,14 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "find_and_click",
       "image": "skipButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "wait_for_image",
@@ -270,14 +270,14 @@
       "image": "dismantleButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "find_and_click",
       "image": "dismantleButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 50
+      "max_retries": 30
     },
     {
       "action": "find_and_click",
@@ -322,7 +322,7 @@
       "action": "find_and_click",
       "image": "Restart_activitiesButton_mobile.png",
       "retry_interval": 1,
-      "delay_before": 5,
+      "delay_before": 12,
       "skip": true,
       "max_retries": 30,
       "on_fail": [
