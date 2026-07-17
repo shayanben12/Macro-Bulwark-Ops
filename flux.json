@@ -6,56 +6,56 @@
       "image": "seasonalActivitiesButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "bulwarkOpsButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "launchButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "PreGame_ReadyButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "selectButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "PreGame_ReadyButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "wait_for_image",
@@ -67,14 +67,14 @@
       "image": "holdToFastFowardButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "skipTextButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "wait_for_image",
@@ -86,14 +86,14 @@
       "image": "pickAugment.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "selectButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "wait_for_image",
@@ -118,7 +118,7 @@
       "image": "buildButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3,
+      "max_retries": 5,
       "on_fail": [
         {
           "action": "joystick_drag",
@@ -138,7 +138,7 @@
           "image": "buildButton.png",
           "retry_interval": 1,
           "skip": true,
-          "max_retries": 3,
+          "max_retries": 5,
           "on_fail": [
             {
               "action": "wait_for_image",
@@ -150,21 +150,21 @@
               "image": "leaveButton.png",
               "retry_interval": 1,
               "skip": true,
-              "max_retries": 30
+              "max_retries": 50
             },
             {
               "action": "find_and_click",
               "image": "ignoreButton.png",
               "retry_interval": 1,
               "skip": true,
-              "max_retries": 3
+              "max_retries": 5
             },
             {
               "action": "find_and_click",
               "image": "wavesCompletedText.png",
               "retry_interval": 1,
               "skip": true,
-              "max_retries": 3
+              "max_retries": 5
             },
             {
               "action": "find_and_click",
@@ -192,35 +192,35 @@
       "image": "1kBuildButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "upgradeButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "2kBuildButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "3kBuildButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "exitButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
@@ -235,7 +235,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "find_and_click",
@@ -243,7 +243,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "find_and_click",
@@ -251,14 +251,14 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "find_and_click",
       "image": "skipButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "wait_for_image",
@@ -270,21 +270,21 @@
       "image": "dismantleButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "find_and_click",
       "image": "dismantleButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 30
+      "max_retries": 50
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "wait_for_image",
@@ -295,6 +295,7 @@
       "action": "find_and_click",
       "image": "leaveButton.png",
       "retry_interval": 1,
+      "delay_before": 3,
       "skip": false
     },
     {
@@ -302,14 +303,14 @@
       "image": "ignoreButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "wavesCompletedText.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
@@ -324,7 +325,7 @@
       "retry_interval": 1,
       "delay_before": 12,
       "skip": true,
-      "max_retries": 30,
+      "max_retries": 50,
       "on_fail": [
         {
           "action": "find_and_click",
@@ -347,7 +348,7 @@
           "image": "Restart_activitiesButton_mobile.png",
           "retry_interval": 1,
           "skip": true,
-          "max_retries": 30
+          "max_retries": 50
         },
         {
           "action": "restart_macro"
@@ -359,21 +360,21 @@
       "image": "rewardRetrievalText.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "claimRewardButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
       "image": "confirmButton.png",
       "retry_interval": 1,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
@@ -381,7 +382,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     },
     {
       "action": "find_and_click",
@@ -389,7 +390,7 @@
       "retry_interval": 1,
       "delay_before": 2,
       "skip": true,
-      "max_retries": 3
+      "max_retries": 5
     }
   ]
 }
