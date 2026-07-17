@@ -22,6 +22,7 @@ Antes de utilizar, certifique que você está usando a torreta "Muqam" no slot 1
 <img width="1939" height="1076" alt="image" src="https://github.com/user-attachments/assets/881d4756-2d76-4687-ae74-475a2b49b7f1" />
 
 Abra o jogo no MuMu Player e vá até a tela inicial do Bulwark Ops (onde aparece o botão de "Launch").
+
 Essa tela aqui
 
 <img width="3557" height="1932" alt="image" src="https://github.com/user-attachments/assets/4ecc29c1-70bf-4f92-94c1-6b3121d3ac6f" />
