@@ -1,4 +1,4 @@
-:octagonal_sign: LEIA ANTES DE BAIXAR: AVISO SOBRE BANS :octagonal_sign:
+LEIA ANTES DE BAIXAR: AVISO SOBRE BANS
 
 :warning: **MUITO IMPORTANTE: O uso de macros, automações ou qualquer script de terceiros VIOLA OS TERMOS DE SERVIÇO do jogo.**
 **Usar essa ferramenta PODE RESULTAR NO BANIMENTO da sua conta se você for pego.**
